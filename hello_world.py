@@ -1,3 +1,2 @@
-
-
-echo "print("Vic says hi")"
+echo "print("Hello World")"
+echo "print("hahaha")"
